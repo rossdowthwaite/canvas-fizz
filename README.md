@@ -1,6 +1,6 @@
 # Canvas Fizzy bubbles
 
-![Example](https://github.com/rossdowthwaite/js-canvas-fizz/blob/master/screenshot.png?raw=true)
+![screenshot](https://github.com/rossdowthwaite/canvas-fizz/blob/master/screenshot.png?raw=true)
 
 ## Introduction
 
