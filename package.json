@@ -1,0 +1,14 @@
+{
+  "name": "js-canvas-fizz",
+  "version": "1.0.0",
+  "description": "![Example](https://github.com/rossdowthwaite/js-canvas-fizz/blob/master/screenshot.png?raw=true)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "matter-js": "^0.14.0"
+  }
+}
